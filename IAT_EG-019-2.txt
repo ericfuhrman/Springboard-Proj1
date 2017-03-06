@@ -1,0 +1,3438 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: IAT_EG
+SessionDate: 07-29-2008
+SessionTime: 13:19:11
+Subject: 019
+Session: 2
+RandomSeed: 490259440
+Group: 1
+Display.RefreshRate: 0.000
+*** Header End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 20
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 1
+		StimulusDisplay.RTTime: 720562
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 3783
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 8
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 2
+		StimulusDisplay.RTTime: 725026
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 3167
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 12
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 3
+		StimulusDisplay.RTTime: 727529
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1558
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 18
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 4
+		StimulusDisplay.RTTime: 729337
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 862
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 6
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 5
+		StimulusDisplay.RTTime: 731104
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 822
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 17
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 6
+		StimulusDisplay.RTTime: 733049
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1000
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 9
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 7
+		StimulusDisplay.RTTime: 734785
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 791
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 3
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 8
+		StimulusDisplay.RTTime: 736713
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 982
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 7
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 9
+		StimulusDisplay.RTTime: 738561
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 903
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 11
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 10
+		StimulusDisplay.RTTime: 740479
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 972
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 14
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 11
+		StimulusDisplay.RTTime: 742338
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 914
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 19
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 12
+		StimulusDisplay.RTTime: 744094
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 810
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 10
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 13
+		StimulusDisplay.RTTime: 746196
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1157
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 15
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 14
+		StimulusDisplay.RTTime: 747913
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 772
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 2
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 15
+		StimulusDisplay.RTTime: 749961
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1102
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List1: 16
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 16
+		StimulusDisplay.RTTime: 751837
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 930
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 4
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 17
+		StimulusDisplay.RTTime: 753768
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 986
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 1
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 18
+		StimulusDisplay.RTTime: 755877
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1164
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 5
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 19
+		StimulusDisplay.RTTime: 757549
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 727
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List1: 13
+		Running: List1
+		List1.Cycle: 1
+		List1.Sample: 20
+		StimulusDisplay.RTTime: 759392
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 897
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Block1Proc
+	BlockList: 1
+	LeftLabel: EMOTION CONTROL
+	RightLabel: EMOTION EXPRESSION
+	BlockList.Cycle: 1
+	BlockList.Sample: 1
+	Running: BlockList
+	*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 17
+		Running: List2
+		StimulusDisplay.RTTime: 769205
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1156
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 1
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 19
+		Running: List2
+		StimulusDisplay.RTTime: 770916
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 766
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 2
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 8
+		Running: List2
+		StimulusDisplay.RTTime: 772434
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 572
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 3
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 7
+		Running: List2
+		StimulusDisplay.RTTime: 773840
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 462
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 4
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 3
+		Running: List2
+		StimulusDisplay.RTTime: 775455
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 669
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 5
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 16
+		Running: List2
+		StimulusDisplay.RTTime: 777015
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 615
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 6
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 11
+		Running: List2
+		StimulusDisplay.RTTime: 778653
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 692
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 7
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 6
+		Running: List2
+		StimulusDisplay.RTTime: 780311
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 713
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 8
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 10
+		Running: List2
+		StimulusDisplay.RTTime: 781893
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 637
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 9
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 9
+		Running: List2
+		StimulusDisplay.RTTime: 783339
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 501
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 10
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 14
+		Running: List2
+		StimulusDisplay.RTTime: 785014
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 730
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 11
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 5
+		Running: List2
+		StimulusDisplay.RTTime: 786621
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 662
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 12
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 2
+		Running: List2
+		StimulusDisplay.RTTime: 788374
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 807
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 13
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 4
+		Running: List2
+		StimulusDisplay.RTTime: 789908
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 590
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 14
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 18
+		Running: List2
+		StimulusDisplay.RTTime: 791742
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 888
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 15
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 12
+		Running: List2
+		StimulusDisplay.RTTime: 793562
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 876
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 16
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 1
+		Running: List2
+		StimulusDisplay.RTTime: 795140
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 633
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 17
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 15
+		Running: List2
+		StimulusDisplay.RTTime: 796780
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 696
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 18
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List2: 20
+		Running: List2
+		StimulusDisplay.RTTime: 798589
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 865
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List2.Cycle: 1
+		List2.Sample: 19
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List2: 13
+		Running: List2
+		StimulusDisplay.RTTime: 800522
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 988
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List2.Cycle: 1
+		List2.Sample: 20
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Block2Proc
+	BlockList: 2
+	LeftLabel: GOOD
+	RightLabel: BAD
+	BlockList.Cycle: 1
+	BlockList.Sample: 2
+	Running: BlockList
+	*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 4
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 810894
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 983
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 1
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 8
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 812547
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 707
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 2
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 66
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 814253
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 761
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 3
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 72
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 816063
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 865
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 4
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 19
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 817913
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 905
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 5
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 63
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 819987
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1124
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 6
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 32
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 821777
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 844
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 7
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 25
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 823709
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 986
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 8
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 28
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 826247
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1592
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 9
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 9
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 828394
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1201
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 10
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 12
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 830157
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 818
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 11
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 42
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 833190
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 2087
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 12
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 44
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 835141
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1006
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 13
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 13
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 837006
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 920
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 14
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 1
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 838599
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 648
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 15
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 11
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 840362
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 818
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 16
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 21
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 842180
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 873
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 17
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 80
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 844307
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1182
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 18
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 10
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 846379
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1127
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 19
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 61
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 848066
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 742
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 20
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 71
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 850315
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1304
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 21
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 26
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 852459
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1198
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 22
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 17
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 854240
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 836
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 23
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 31
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 855995
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 810
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 24
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 40
+		Stimulus: expressive
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 858105
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1164
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 25
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 2
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 859711
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 661
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 26
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 60
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 861703
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1047
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 27
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 29
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 863916
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1268
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 28
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 70
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 865688
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 826
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 29
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 52
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 867378
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 744
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 30
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 65
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 869788
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1464
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 31
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 36
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 871329
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 596
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 32
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 48
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 873215
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 941
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 33
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 6
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 874891
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 731
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 34
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 76
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 876641
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 805
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 35
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 37
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 878217
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 631
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 36
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 69
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 880280
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 1118
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 37
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 67
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 882530
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1300
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 38
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 38
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 885602
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 2126
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 39
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 68
+		Stimulus: emotional
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 888386
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1839
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 40
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 16
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 891047
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1716
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 41
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 23
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 892685
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 692
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 42
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 39
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 894524
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 894
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 43
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 77
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 896165
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 695
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 44
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 49
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 898362
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1252
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 45
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 74
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 900201
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 894
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 46
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 56
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 901987
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 841
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 47
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 53
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 903621
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 689
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 48
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 33
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 906001
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1435
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 49
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 5
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 907986
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1040
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 50
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 51
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 909687
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 756
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 51
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 59
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 911764
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1132
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 52
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 35
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 913461
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 753
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 53
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 73
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 915564
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1157
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 54
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 62
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 917451
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 942
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 55
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 22
+		Stimulus: control
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 919209
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 813
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 56
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 20
+		Stimulus: contain
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 921096
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 942
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 57
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 14
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 923015
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 974
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 58
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 46
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 924453
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 493
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 59
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 54
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 925874
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 475
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 60
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 24
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 927679
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 860
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 61
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 34
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 929610
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 986
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 62
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 45
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 931523
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 968
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 63
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 75
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 933382
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 914
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 64
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 58
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 935027
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 700
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 65
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 18
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 936799
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 827
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 66
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 30
+		Stimulus: reveal
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 938527
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 783
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 67
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 47
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 940367
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 895
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 68
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 3
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 942223
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 910
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 69
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 55
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 943841
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 673
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 70
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 41
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 945355
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 568
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 71
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 79
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 946859
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 559
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 72
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 15
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 948341
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 537
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 73
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 50
+		Stimulus: inhibit
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 950043
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 757
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 74
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 78
+		Stimulus: disclose
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 952100
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1113
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 75
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 7
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 954263
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1218
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 76
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 57
+		Stimulus: calm
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 956072
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 864
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 77
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 27
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 957735
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 719
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 78
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 64
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 959368
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 688
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List3.Cycle: 1
+		List3.Sample: 79
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		List3: 43
+		Stimulus: controlled
+		CorrectAnswer: q
+		Procedure: TrialProc
+		Running: List3
+		StimulusDisplay.RTTime: 960994
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 681
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List3.Cycle: 1
+		List3.Sample: 80
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Block3Proc
+	BlockList: 3
+	LeftLabel: GOOD or EMOTION CONTROL
+	RightLabel: BAD or EMOTION EXPRESSION
+	BlockList.Cycle: 1
+	BlockList.Sample: 3
+	Running: BlockList
+	*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 5
+		Running: List4
+		StimulusDisplay.RTTime: 968159
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1167
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 1
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 7
+		Running: List4
+		StimulusDisplay.RTTime: 969663
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 560
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 2
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 15
+		Running: List4
+		StimulusDisplay.RTTime: 971185
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 572
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 3
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 18
+		Running: List4
+		StimulusDisplay.RTTime: 972915
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 786
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 4
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 10
+		Running: List4
+		StimulusDisplay.RTTime: 974729
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 869
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 5
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 16
+		Running: List4
+		StimulusDisplay.RTTime: 976351
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 675
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 6
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 12
+		Running: List4
+		StimulusDisplay.RTTime: 977906
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 609
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 7
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 8
+		Running: List4
+		StimulusDisplay.RTTime: 979766
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 915
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 8
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 6
+		Running: List4
+		StimulusDisplay.RTTime: 981661
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 950
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 9
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 19
+		Running: List4
+		StimulusDisplay.RTTime: 983423
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 815
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 10
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 17
+		Running: List4
+		StimulusDisplay.RTTime: 985030
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 662
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 11
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 11
+		Running: List4
+		StimulusDisplay.RTTime: 987072
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1093
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 12
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 13
+		Running: List4
+		StimulusDisplay.RTTime: 989075
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1058
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 13
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 9
+		Running: List4
+		StimulusDisplay.RTTime: 990848
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 826
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 14
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 1
+		Running: List4
+		StimulusDisplay.RTTime: 992856
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1063
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 15
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 2
+		Running: List4
+		StimulusDisplay.RTTime: 994716
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 915
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 16
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 3
+		Running: List4
+		StimulusDisplay.RTTime: 996507
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 845
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 17
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 4
+		Running: List4
+		StimulusDisplay.RTTime: 998097
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 643
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 18
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List4: 14
+		Running: List4
+		StimulusDisplay.RTTime: 999584
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 541
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List4.Cycle: 1
+		List4.Sample: 19
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List4: 20
+		Running: List4
+		StimulusDisplay.RTTime: 1001401
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 870
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List4.Cycle: 1
+		List4.Sample: 20
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Block4Proc
+	BlockList: 4
+	LeftLabel: EMOTION EXPRESSION
+	RightLabel: EMOTION CONTROL
+	BlockList.Cycle: 1
+	BlockList.Sample: 4
+	Running: BlockList
+	*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 22
+		Running: List5
+		StimulusDisplay.RTTime: 1011911
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1441
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 1
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 14
+		Running: List5
+		StimulusDisplay.RTTime: 1013480
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 623
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 2
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 17
+		Running: List5
+		StimulusDisplay.RTTime: 1015015
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 589
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 3
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 44
+		Running: List5
+		StimulusDisplay.RTTime: 1016556
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 594
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 4
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 2
+		Running: List5
+		StimulusDisplay.RTTime: 1018221
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 719
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 5
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 58
+		Running: List5
+		StimulusDisplay.RTTime: 1019592
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 425
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 6
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 1
+		Running: List5
+		StimulusDisplay.RTTime: 1021236
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 696
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 7
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 73
+		Running: List5
+		StimulusDisplay.RTTime: 1022712
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 530
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 8
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 12
+		Running: List5
+		StimulusDisplay.RTTime: 1024220
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 562
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 9
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 53
+		Running: List5
+		StimulusDisplay.RTTime: 1025640
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 474
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 10
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 6
+		Running: List5
+		StimulusDisplay.RTTime: 1027215
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 628
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 11
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 63
+		Running: List5
+		StimulusDisplay.RTTime: 1029470
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1304
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 12
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 35
+		Running: List5
+		StimulusDisplay.RTTime: 1031832
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1415
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 13
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 19
+		Running: List5
+		StimulusDisplay.RTTime: 1033830
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1052
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 14
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 57
+		Running: List5
+		StimulusDisplay.RTTime: 1035580
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 804
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 15
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 67
+		Running: List5
+		StimulusDisplay.RTTime: 1037524
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 997
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 16
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 33
+		Running: List5
+		StimulusDisplay.RTTime: 1039131
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 661
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 17
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 80
+		Running: List5
+		StimulusDisplay.RTTime: 1041017
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 940
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 18
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 50
+		Running: List5
+		StimulusDisplay.RTTime: 1042533
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 570
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 19
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 28
+		Running: List5
+		StimulusDisplay.RTTime: 1044158
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 678
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 20
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 15
+		Running: List5
+		StimulusDisplay.RTTime: 1045817
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 713
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 21
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 61
+		Running: List5
+		StimulusDisplay.RTTime: 1047296
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 533
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 22
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 49
+		Running: List5
+		StimulusDisplay.RTTime: 1049217
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 975
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 23
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 74
+		Running: List5
+		StimulusDisplay.RTTime: 1050866
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 702
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 24
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 54
+		Running: List5
+		StimulusDisplay.RTTime: 1053280
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1467
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 25
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 37
+		Running: List5
+		StimulusDisplay.RTTime: 1054805
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 578
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 26
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 46
+		Running: List5
+		StimulusDisplay.RTTime: 1056721
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 970
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 27
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 39
+		Running: List5
+		StimulusDisplay.RTTime: 1058631
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 964
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 28
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 52
+		Running: List5
+		StimulusDisplay.RTTime: 1060337
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 760
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 29
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 69
+		Running: List5
+		StimulusDisplay.RTTime: 1061763
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 480
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 30
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 68
+		Running: List5
+		StimulusDisplay.RTTime: 1063562
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 852
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 31
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 75
+		Running: List5
+		StimulusDisplay.RTTime: 1066000
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1492
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 32
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 70
+		Running: List5
+		StimulusDisplay.RTTime: 1067510
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 564
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 33
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 23
+		Running: List5
+		StimulusDisplay.RTTime: 1068989
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 533
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 34
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 78
+		Running: List5
+		StimulusDisplay.RTTime: 1070347
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 412
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 35
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 66
+		Running: List5
+		StimulusDisplay.RTTime: 1071902
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 608
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 36
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: control
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 40
+		Running: List5
+		StimulusDisplay.RTTime: 1073298
+		StimulusDisplay.ACC: 0
+		StimulusDisplay.RT: 449
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 37
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 62
+		Running: List5
+		StimulusDisplay.RTTime: 1075182
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 933
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 38
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 5
+		Running: List5
+		StimulusDisplay.RTTime: 1077000
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 872
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 39
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 51
+		Running: List5
+		StimulusDisplay.RTTime: 1078595
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 648
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 40
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 24
+		Running: List5
+		StimulusDisplay.RTTime: 1080174
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 633
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 41
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 59
+		Running: List5
+		StimulusDisplay.RTTime: 1082141
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1021
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 42
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 41
+		Running: List5
+		StimulusDisplay.RTTime: 1083827
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 740
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 43
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 32
+		Running: List5
+		StimulusDisplay.RTTime: 1085456
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 683
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 44
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: contain
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 9
+		Running: List5
+		StimulusDisplay.RTTime: 1087116
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 714
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 45
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 20
+		Running: List5
+		StimulusDisplay.RTTime: 1089136
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1073
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 46
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 79
+		Running: List5
+		StimulusDisplay.RTTime: 1090767
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 685
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 47
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: bad
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 29
+		Running: List5
+		StimulusDisplay.RTTime: 1092652
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 939
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 48
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 71
+		Running: List5
+		StimulusDisplay.RTTime: 1094326
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 728
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 49
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: pleasant
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 38
+		Running: List5
+		StimulusDisplay.RTTime: 1096320
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1048
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 50
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 48
+		Running: List5
+		StimulusDisplay.RTTime: 1098086
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 820
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 51
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 36
+		Running: List5
+		StimulusDisplay.RTTime: 1099578
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 545
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 52
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 21
+		Running: List5
+		StimulusDisplay.RTTime: 1101122
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 597
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 53
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 7
+		Running: List5
+		StimulusDisplay.RTTime: 1103115
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1047
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 54
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 26
+		Running: List5
+		StimulusDisplay.RTTime: 1105230
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1169
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 55
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 43
+		Running: List5
+		StimulusDisplay.RTTime: 1106905
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 728
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 56
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 4
+		Running: List5
+		StimulusDisplay.RTTime: 1108568
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 716
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 57
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 76
+		Running: List5
+		StimulusDisplay.RTTime: 1110212
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 698
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 58
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 45
+		Running: List5
+		StimulusDisplay.RTTime: 1111883
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 725
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 59
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: reveal
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 55
+		Running: List5
+		StimulusDisplay.RTTime: 1113893
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1064
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 60
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: inhibit
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 3
+		Running: List5
+		StimulusDisplay.RTTime: 1115595
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 756
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 61
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 47
+		Running: List5
+		StimulusDisplay.RTTime: 1117094
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 552
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 62
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gold
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 18
+		Running: List5
+		StimulusDisplay.RTTime: 1118593
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 553
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 63
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 25
+		Running: List5
+		StimulusDisplay.RTTime: 1120131
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 592
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 64
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 56
+		Running: List5
+		StimulusDisplay.RTTime: 1121762
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 685
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 65
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: expressive
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 34
+		Running: List5
+		StimulusDisplay.RTTime: 1123555
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 847
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 66
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: filth
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 77
+		Running: List5
+		StimulusDisplay.RTTime: 1125109
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 608
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 67
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 13
+		Running: List5
+		StimulusDisplay.RTTime: 1126537
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 481
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 68
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: good
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 11
+		Running: List5
+		StimulusDisplay.RTTime: 1128219
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 736
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 69
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 72
+		Running: List5
+		StimulusDisplay.RTTime: 1129883
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 718
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 70
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: gloom
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 64
+		Running: List5
+		StimulusDisplay.RTTime: 1131785
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 956
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 71
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: controlled
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 8
+		Running: List5
+		StimulusDisplay.RTTime: 1133748
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1016
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 72
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: calm
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 60
+		Running: List5
+		StimulusDisplay.RTTime: 1135540
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 846
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 73
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: express
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 42
+		Running: List5
+		StimulusDisplay.RTTime: 1137664
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 1177
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 74
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: emotional
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 65
+		Running: List5
+		StimulusDisplay.RTTime: 1139201
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 591
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 75
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: disclose
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 16
+		Running: List5
+		StimulusDisplay.RTTime: 1140925
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 777
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 76
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: rotten
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 10
+		Running: List5
+		StimulusDisplay.RTTime: 1142511
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 639
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 77
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: lucky
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 30
+		Running: List5
+		StimulusDisplay.RTTime: 1144071
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 614
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 78
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: honor
+		CorrectAnswer: q
+		Procedure: TrialProc
+		List5: 27
+		Running: List5
+		StimulusDisplay.RTTime: 1145577
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 560
+		StimulusDisplay.RESP: q
+		StimulusDisplay.CRESP: q
+		List5.Cycle: 1
+		List5.Sample: 79
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Stimulus: unpleasant
+		CorrectAnswer: p
+		Procedure: TrialProc
+		List5: 31
+		Running: List5
+		StimulusDisplay.RTTime: 1147243
+		StimulusDisplay.ACC: 1
+		StimulusDisplay.RT: 720
+		StimulusDisplay.RESP: p
+		StimulusDisplay.CRESP: p
+		List5.Cycle: 1
+		List5.Sample: 80
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Block5Proc
+	BlockList: 5
+	LeftLabel: GOOD or EMOTION EXPRESSION
+	RightLabel: BAD or EMOTION CONTROL
+	BlockList.Cycle: 1
+	BlockList.Sample: 5
+	Running: BlockList
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: MoodProc
+	List6: 1
+	MoodQ: sad
+	Running: List6
+	List6.Cycle: 1
+	List6.Sample: 1
+	TextDisplay1.RT: 2520
+	TextDisplay1.RESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: MoodProc
+	List6: 2
+	MoodQ: angry
+	Running: List6
+	List6.Cycle: 1
+	List6.Sample: 2
+	TextDisplay1.RT: 1311
+	TextDisplay1.RESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: MoodProc
+	List6: 3
+	MoodQ: bored
+	Running: List6
+	List6.Cycle: 1
+	List6.Sample: 3
+	TextDisplay1.RT: 1325
+	TextDisplay1.RESP: 2
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: MoodProc
+	List6: 4
+	MoodQ: annoyed
+	Running: List6
+	List6.Cycle: 1
+	List6.Sample: 4
+	TextDisplay1.RT: 1149
+	TextDisplay1.RESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: MoodProc
+	List6: 5
+	MoodQ: interested
+	Running: List6
+	List6.Cycle: 1
+	List6.Sample: 5
+	TextDisplay1.RT: 1601
+	TextDisplay1.RESP: 2
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: IAT_EG
+SessionDate: 07-29-2008
+SessionTime: 13:19:11
+Subject: 019
+Session: 2
+RandomSeed: 490259440
+Group: 1
+Display.RefreshRate: 0.000
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2008-07-29T20:19:11Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">3579545</Frequency><Timestamp dt:dt="r8">489817459</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2008-07-29T20:19:11Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+*** LogFrame End ***
